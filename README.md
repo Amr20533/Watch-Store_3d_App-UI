@@ -1,16 +1,11 @@
 # watch_store_3d_app_ui
 
-A new Flutter project.
+The 3D Watch Store app UI offers an immersive shopping experience, allowing users to view watches in stunning 3D. Users can customize their selection by exploring various colors and sizes, ensuring a perfect fit for their style. Intuitive navigation and interactive features make it easy to compare options and visualize their ideal watch before purchase.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Group 62479](https://github.com/user-attachments/assets/a789ffd8-86c9-47f3-8a70-ab757fd030dd)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![untitled](https://github.com/user-attachments/assets/b5cd17ff-4d31-41ab-88d8-5100e8fcb0ac)
