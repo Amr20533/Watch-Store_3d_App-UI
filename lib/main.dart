@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:google_fonts/google_fonts.dart';
+import 'package:watch_store_3d_app_ui/modeules/app_theme.dart';
 import 'package:watch_store_3d_app_ui/screens/details_screen.dart';
 
 void main() {
@@ -19,16 +19,8 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
-        textTheme: GoogleFonts.ptSansCaptionTextTheme(),
-        primarySwatch: Colors.blue,
-        appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.white,
-          centerTitle: true
-        )
-      ),
+      title: 'Watch Store',
+      theme: appTheme,
       home: const DetailsScreen(),
     );
   }
